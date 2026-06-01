@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./.github/assets/formula1-banner.png" alt="Formula 1 API" height="200">
+
 
 # 🏎️ FORMULA 1 API
 
